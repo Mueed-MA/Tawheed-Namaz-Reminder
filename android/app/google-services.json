@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839325801886",
+    "project_id": "masjid-app-bb884",
+    "storage_bucket": "masjid-app-bb884.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839325801886:android:9e73de994a17e581544a8f",
+        "android_client_info": {
+          "package_name": "com.example.my_masjid_two"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv4n8hRjf-VAuoXUtQ03XsiUmoyaRMrhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839325801886:android:7ebd394aa01ccd63544a8f",
+        "android_client_info": {
+          "package_name": "com.tawheed.namazreminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv4n8hRjf-VAuoXUtQ03XsiUmoyaRMrhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
