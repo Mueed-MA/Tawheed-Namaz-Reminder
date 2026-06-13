@@ -82,7 +82,17 @@ Tawheed Namaz Reminder is a Flutter-based Islamic application designed to help M
 
 ## Screenshots
 
-Add screenshots inside a `screenshots` folder and reference them here.
+## Screenshots
+
+| Home Screen | Upcoming Jamaat |
+|-------------|----------------|
+| ![](screenshots/Home_screen.png) | ![](screenshots/Upcoming_jamat.png) |
+
+| Salah Tracker | Qibla Finder |
+|---------------|-------------|
+| ![](screenshots/Salah_tracker.webp) | ![](screenshots/Qibla_finder.png) |
+
+
 
 ## Installation
 
