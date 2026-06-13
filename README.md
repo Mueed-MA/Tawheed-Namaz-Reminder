@@ -80,34 +80,21 @@ Tawheed Namaz Reminder is a Flutter-based Islamic application designed to help M
 * Location Services
 * Local Notifications
 
-## Screenshots
-
-## Screenshots
-
-| Home Screen | Upcoming Jamaat |
-|-------------|----------------|
-| ![](screenshots/Home_screen.png) | ![](screenshots/Upcoming_jamat.png) |
-
-| Salah Tracker | Qibla Finder |
-|---------------|-------------|
-| ![](screenshots/Salah_tracker.webp) | ![](screenshots/Qibla_finder.png) |
 
 
+<h2>Screenshots</h2>
 
-## Installation
+<p align="center">
+  <img src="screenshots/Home_screen.png" width="250">
+  <img src="screenshots/Upcoming_jamat.png" width="250">
+</p>
 
-1. Clone the repository
-2. Run:
+<p align="center">
+  <img src="screenshots/Salah_tracker.webp" width="250">
+  <img src="screenshots/Qibla_finder.png" width="250">
+</p>
 
-```bash
-flutter pub get
-```
 
-3. Start the application:
-
-```bash
-flutter run
-```
 
 ## Google Play Store
 
